@@ -44,6 +44,12 @@ build/
 Build/
 build-*/
 
+# Visual Studio & CMake Output
+.vs/
+out/
+*.VC.db
+*.ipch
+
 # CMake generated files
 CMakeFiles/
 CMakeCache.txt
